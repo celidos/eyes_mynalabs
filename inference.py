@@ -2,7 +2,6 @@ import sys
 import os
 from glob import glob
 
-from argparse import ArgumentParser
 import numpy as np
 import cv2 as cv
 from scipy.special import softmax
@@ -80,3 +79,4 @@ def main():
 
 
 main()
+
